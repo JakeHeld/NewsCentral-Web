@@ -760,3 +760,4 @@ FodyWeavers.xsd
 *.tlog
 
 # End of https://www.toptal.com/developers/gitignore/api/react,webstorm,visualstudio,visualstudiocode,jetbrains,node,macos,windows,linux
+.idea
